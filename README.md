@@ -1,2 +1,2 @@
 # LinkedLists
-practincing linked lists
+practicing linked lists
